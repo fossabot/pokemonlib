@@ -2,6 +2,7 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/arthuro555)
 [![Build Status](https://travis-ci.org/arthuro555/pokemonlib.svg?branch=master)](https://travis-ci.org/arthuro555/pokemonlib)
 [![CircleCI](https://circleci.com/gh/arthuro555/pokemonlib/tree/master.svg?style=svg)](https://circleci.com/gh/arthuro555/pokemonlib/tree/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farthuro555%2Fpokemonlib.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Farthuro555%2Fpokemonlib?ref=badge_shield)
 
 ## WARNING:
 **I Am not and don't claim to be affiliated with Pokemon or the Pokemon Company or Nintendo.
@@ -76,3 +77,7 @@ A bit like renpy. If it goes on so far that all the 'Core' stuff is done and als
 want to make directly a 'Programming Language' for it (Just something to parse some pre defined syntax and connect it
 with the 'Core' API) or a visual editor (Like idk Geometry dash). Keep the goal in mind if you make contributions
 because if they are not compatible with my goals I will have to reject them.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farthuro555%2Fpokemonlib.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Farthuro555%2Fpokemonlib?ref=badge_large)
